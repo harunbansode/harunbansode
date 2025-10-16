@@ -1,15 +1,5 @@
 ## 👋 Hi there, I'm Harun Bansode!
 
-🚀 **Machine Learning Engineer | AI Enthusiast | Open Source Contributor**  
-🔍 Passionate about deep learning, model optimization, and scalable AI solutions.
-
----
-
-### 🔥 About Me
-- 🎯 Specializing in **ML/DL Model Development, MLOps, and Data Engineering**.
-- 🧠 Currently exploring **LLMs, Generative AI, and Edge AI**.
-- 🌱 Always learning new techniques to make ML models **efficient and scalable**.
-
 ---
 
 ### 🛠️ Tech Stack
