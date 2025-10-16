@@ -1,7 +1,5 @@
 ## 👋 Hi there, I'm Harun Bansode!
 
----
-
 ### 🛠️ Tech Stack
 
 #### **Languages:**
