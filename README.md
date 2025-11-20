@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Harun Bansode!
+## 👋 Hi there, I'm Harun Milind!
 
 ### 🛠️ Tech Stack
 
