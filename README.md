@@ -66,10 +66,9 @@ Data Structures, Algorithms, OOP, Databases, Data Cleaning, Data Analysis, Autom
 ---
 
 ## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harunkumar2610/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/harunbansode)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4AB197?style=flat&logo=about.me&logoColor=white)](https://harunbansode.github.io/portfolio/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harunkumar2610/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/harunbansode) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4AB197?style=flat&logo=about.me&logoColor=white)](https://harunbansode.github.io/portfolio/) 
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/harunbansode551)
 
 ---
