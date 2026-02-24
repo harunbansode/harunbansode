@@ -61,19 +61,9 @@ Transformer-based AI chatbot trained on NLP techniques.
 
 ---
 
-## 📈 GitHub Stats
-
-![Harun's GitHub stats](https://github-readme-stats.vercel.app/api?username=harunbansode&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harunbansode&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harunkumar2610/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/harun_bansode)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/harunbansode551)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harun2610/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://harunbansode.github.io/portfolio/)
 
 ---
